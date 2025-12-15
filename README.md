@@ -5,13 +5,13 @@ Machine learning project predicting California house prices using regression mod
 ---
 
 ## 📋 Project Overview
-*Will be completed during analysis*
+* Will be completed during analysis *
 
 **Goal:** Predict median house values in California districts
 
 **Dataset:** California Housing Dataset (1990 census data)
 
-**Methods:** to be added later
+**Methods:** to be decided
 
 ---
 
@@ -42,7 +42,7 @@ california-housing-prediction/
 ---
 
 ## 📊 Results
-*Will be updated with model performance*
+*Will be updated with model performance *
 
 ---
 
