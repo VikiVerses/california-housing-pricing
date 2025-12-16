@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 California Housing Price Prediction
 
 Machine learning project predicting California house prices using regression models.
@@ -90,3 +91,6 @@ The models were evaluated based on their Root Mean Squared Error (RMSE) on the t
 
 -   Start Date: December 15, 2024
 -   Status: In Progress 🚧
+=======
+# california-housing-pricing
+>>>>>>> ea9c5b317bcf1e97fdceb526f887f7b881e45137
